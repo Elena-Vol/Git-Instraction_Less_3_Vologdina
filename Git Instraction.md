@@ -107,7 +107,6 @@ git branch <имя новой ветки>
 ```
 git merge <имя выбранной ветки>
 ```
-HHHHHHHHHHHHHHHHHH
 
 
 
